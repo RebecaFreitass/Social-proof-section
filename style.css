@@ -1,3 +1,22 @@
+main{
+    width: 70vw;
+    margin: auto;
+}
+.first-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header{
+    width: 40%;
+}
+#title-page-header{
+    color: hsl(300, 43%, 22%);
+}
+
+
+
+
 .attribution {
     font-size: 11px;
     text-align: center;
